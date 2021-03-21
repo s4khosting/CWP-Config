@@ -3,13 +3,6 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 CWD="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 HOSTNAME=$(hostname -f)
 
-echo "     _  _   _    _               _   _                                  "
-echo " ___| || | | | _| |__   ___  ___| |_(_)_ __   __ _   ___ ___  _ __ ___  "
-echo "/ __| || |_| |/ / '_ \ / _ \/ __| __| | '_ \ / _` | / __/ _ \| '_ ` _ \ "
-echo "\__ \__   _|   <| | | | (_) \__ \ |_| | | | | (_| || (_| (_) | | | | | |"
-echo "|___/  |_| |_|\_\_| |_|\___/|___/\__|_|_| |_|\__, (_)___\___/|_| |_| |_|"
-echo "                                             |___/                      "
-
 echo ""
 echo "       ####################### CentOS Web Panel Configurator #######################          "
 echo ""
